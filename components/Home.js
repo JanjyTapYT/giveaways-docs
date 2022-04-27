@@ -55,16 +55,16 @@ export default function Page() {
   return (
     <>
       <Head>
-        <title>Stoneclane List</title>
+        <title>GiveAways Bot | Docs</title>
       </Head>
       <div className="px-4 pt-16 pb-8 sm:px-6 sm:pt-24 lg:px-8 dark:text-white ">
         <h1 className="text-center text-7xl font-extrabold tracking-tighter leading-[1.1] sm:text-8xl lg:text-9xl xl:text-9xl">
           <span className="future inline-block text-transparent bg-clip-text bg-gradient-radial from-color2 to-color2 via-color1 animate-gradient-x bg-repeat">
-            STONECLANE DOCS.
+            GIVEAWAYS BOT.
           </span>{' '}
         </h1>
         <p className="max-w-lg mx-auto mt-6 text-3xl font-medium leading-tight text-center text-gray-400 sm:max-w-4xl sm:text-2xl md:text-3xl lg:text-4xl">
-          Official Documentation for the Stoneclane Bot List Website, Discord
+          Official Documentation for the GiveAways Bot, Discord
           Server and Companion API
         </p>
         <div className="max-w-xl mx-auto mt-5 sm:flex sm:justify-center md:mt-8">
@@ -77,7 +77,7 @@ export default function Page() {
           </div>
 
           <div className="relative mt-3 rounded-md sm:mt-0 sm:ml-3">
-            <Link href="https://stoneclane.xyz/discord">
+            <Link href="/discord">
               <a className="flex items-center justify-center w-full px-8 py-3 font-mono text-base no-underline font-medium text-gray-600 bg-black border border-transparent border-gray-200 rounded-md bg-opacity-5 dark:bg-white dark:text-white dark:border-gray-700 dark:bg-opacity-5 betterhover:hover:bg-gray-50 betterhover:dark:hover:bg-color2 md:py-3 md:text-base md:leading-6 md:px-10">
                 → Get Support
               </a>
@@ -88,7 +88,7 @@ export default function Page() {
 
       <div className="px-4 py-16 mx-auto sm:px-6 sm:pt-20 sm:pb-24 lg:max-w-7xl lg:pt-24 lg:px-8">
         <p className="text-5xl font-extrabold tracking-tight lg:text-6xl xl:text-7xl lg:text-center dark:text-white">
-          Stoneclane API!
+          GiveAways API!
         </p>
         <p className="mx-auto mt-4 text-lg font-medium text-gray-400 lg:max-w-3xl lg:text-xl lg:text-center">
           Our API is designed to be modern and easy to use while being lean,

@@ -17,7 +17,7 @@ export default {
           href="https://nextjs.org/"
           target="_blank"
         >
-          <span className="mr-1">© 2022 Stoneclane Bot List | Powered By</span>
+          <span className="mr-1">© 2022 GiveAways Bot | Powered By</span>
           <span>
             <img src="/Nextjs.png" height={20} width={20} />
           </span>
@@ -36,7 +36,7 @@ export default {
           src="/infinity.png"
         />
         <span className="ml-2 mr-2 font-extrabold hidden md:inline">
-          Stoneclane
+          GiveAways
         </span>
         <span className="text-color2 font-normal hidden md:inline">Docs</span>
       </>
@@ -53,19 +53,19 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta
         name="description"
-        content="Official Documentation for the Stoneclane Bot List Website, Discord Server, Staff Team and API"
+        content="Official Documentation for the GiveAways Bot, Discord Server, Staff Team and API"
       />
       <meta
         name="og:description"
-        content="Official Documentation for the Stoneclane Bot List Website, Discord Server, Staff Team and API"
+        content="Official Documentation for the GiveAways Bot, Discord Server, Staff Team and API"
       />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="/InfinityBotList-Banner.png" />
-      <meta name="twitter:site:domain" content="docs.stoneclane.xyz" />
-      <meta name="twitter:url" content="https://docs.stoneclane.xyz" />
-      <meta name="og:title" content="Stoneclane Bots | Documentation" />
+      <meta name="twitter:site:domain" content="docs.giveaways-bot.com" />
+      <meta name="twitter:url" content="https://docs.giveaways-bot.com" />
+      <meta name="og:title" content="GiveAways Bot | Documentation" />
       <meta name="og:image" content="/infinity.png" />
-      <meta name="apple-mobile-web-app-title" content="Stoneclane Docs" />
+      <meta name="apple-mobile-web-app-title" content="GiveAways Bot" />
       <link rel="apple-touch-icon" sizes="180x180" href="/infinity.png" />
       <link rel="icon" type="image/png" sizes="192x192" href="/infinity.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/infinity.png" />
