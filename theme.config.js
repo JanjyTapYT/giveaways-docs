@@ -1,5 +1,5 @@
 export default {
-  titleSuffix: ' – Stoneclane Docs',
+  titleSuffix: ' – GiveAways Docs',
   feedbackLink: () => {
     return 'Give us some feedback →';
   },
@@ -14,12 +14,12 @@ export default {
         <a
           rel="noopener"
           className="w-full inline-flex items-center no-underline text-current font-semibold grayscale opacity-75 hover:opacity-100"
-          href="https://nextjs.org/"
+          href="https://nodejs.org/"
           target="_blank"
         >
           <span className="mr-1">© 2022 GiveAways Bot | Powered By</span>
           <span>
-            <img src="/Nextjs.png" height={20} width={20} />
+            <img src="/Nodejs.png" height={20} width={20} />
           </span>
         </a>
       </>
